@@ -1,18 +1,25 @@
-Hi 👋 My name is Ayush Bansal
+👋 Hey there, I'm Ayush! 🚀
 =============================
 
-Web Developer
--------------
+
+🧑🏻‍💻 Sophomore at NIT Kurukshetra | Web Developer | Problem Solver
+🔹 Passionate about Web Development & Data Structure and Algorithm
+🔹 Building scalable & efficient backend systems using Node.js & MongoDB
+🔹 Solving Data Structures & Algorithms problems with C++ in Competitive Programming
 
 
-- 🧑🏻‍💻 I am a Sophomore at National Institute of Technology, Kurukshetra.
-- 👀 I’m interested in Web Development and Problem Solving in DSA.
-- 🌱 I’m currently learning backend in nodejs and uses MongoDB for managing databases .
-- 🤩 I also like to do competitive programming using Cpp.
-- 💞️ I’m looking to collaborate on projects which includes Reactjs and Redux.
-- 📫 You can reach me through email ayush058955@gmail.com 
-- ⚡ Fun fact: Why do programmers prefer Dark mode ? - Because light attracts bugs! 😁
+🚀 What I’m Up To
+🔹 Exploring Backend Development – Crafting robust APIs using Node.js & MongoDB
+🔹 Sharpening Problem-Solving Skills – Practicing CP on LeetCode & Codechef
+🔹 Collaborating – Open to working on cool projects related to Node.js, MongoDB & scalable backend systems
 
+
+⚡ Fun Fact
+Why do programmers prefer Dark Mode? 🕶️
+➡️ Because light attracts bugs! 🐛😂
+
+
+🚀 "Code. Debug. Repeat. Let’s build the future together!"
 
 
 ### Skills
