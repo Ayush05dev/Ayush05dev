@@ -7,7 +7,7 @@
 🔹 **Building scalable & efficient backend systems using Node.js & MongoDB**  
 🔹 **Solving DSA problems with C++ in Competitive Programming**  
 
----
+
 
 ## 🚀 What I’m Up To  
 
@@ -15,16 +15,18 @@
 🔹 **Sharpening Problem-Solving Skills** – Practicing **CP on LeetCode & CodeChef**  
 🔹 **Collaborating** – Open to working on **cool projects** related to Node.js, MongoDB & scalable backend systems  
 
----
+
 
 ## ⚡ Fun Fact  
 
 💡 **Why do programmers prefer Dark Mode?** 🕶️  
 ➡️ Because **light attracts bugs!** 🐛😂  
 
----
+
 
 ### 🚀 *"Code. Debug. Repeat. Let’s build the future together!"*  
+
+
 
 
 ### Skills
