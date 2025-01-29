@@ -1,25 +1,30 @@
-👋 Hey there, I'm Ayush! 🚀
-=============================
+# 👋 Hey there, I'm Ayush! 🚀  
+=============================  
 
+### 🧑🏻‍💻 Sophomore at NIT Kurukshetra | Web Developer | Problem Solver  
 
-🧑🏻‍💻 Sophomore at NIT Kurukshetra | Web Developer | Problem Solver
-🔹 Passionate about Web Development & Data Structure and Algorithm
-🔹 Building scalable & efficient backend systems using Node.js & MongoDB
-🔹 Solving Data Structures & Algorithms problems with C++ in Competitive Programming
+🔹 **Passionate about Web Development & Data Structures and Algorithms**  
+🔹 **Building scalable & efficient backend systems using Node.js & MongoDB**  
+🔹 **Solving DSA problems with C++ in Competitive Programming**  
 
+---
 
-🚀 What I’m Up To
-🔹 Exploring Backend Development – Crafting robust APIs using Node.js & MongoDB
-🔹 Sharpening Problem-Solving Skills – Practicing CP on LeetCode & Codechef
-🔹 Collaborating – Open to working on cool projects related to Node.js, MongoDB & scalable backend systems
+## 🚀 What I’m Up To  
 
+🔹 **Exploring Backend Development** – Crafting robust APIs using **Node.js & MongoDB**  
+🔹 **Sharpening Problem-Solving Skills** – Practicing **CP on LeetCode & CodeChef**  
+🔹 **Collaborating** – Open to working on **cool projects** related to Node.js, MongoDB & scalable backend systems  
 
-⚡ Fun Fact
-Why do programmers prefer Dark Mode? 🕶️
-➡️ Because light attracts bugs! 🐛😂
+---
 
+## ⚡ Fun Fact  
 
-🚀 "Code. Debug. Repeat. Let’s build the future together!"
+💡 **Why do programmers prefer Dark Mode?** 🕶️  
+➡️ Because **light attracts bugs!** 🐛😂  
+
+---
+
+### 🚀 *"Code. Debug. Repeat. Let’s build the future together!"*  
 
 
 ### Skills
