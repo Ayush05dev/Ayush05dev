@@ -8,7 +8,7 @@
 🔹 **Solving DSA problems with C++ in Competitive Programming**  
 
 
-<br><br><br>
+<br><br>
 
 ## 🚀 What I’m Up To  
 
@@ -16,7 +16,7 @@
 🔹 **Sharpening Problem-Solving Skills** – Practicing **CP on LeetCode & CodeChef**  
 🔹 **Collaborating** – Open to working on **cool projects** related to Node.js, MongoDB & scalable backend systems  
 
-<br><br><br>
+<br><br>
 
 ## ⚡ Fun Fact  
 
@@ -27,7 +27,7 @@
 <br><br><br>
 ### 🚀 *"Code. Debug. Repeat. Let’s build the future together!"*  
 
-<br><br><br>
+<br><br>
 
 
 ### Skills
